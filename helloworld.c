@@ -6,5 +6,6 @@
 int main(int argc, char *argv[]){
 	printf("I am using git\n");
 	printf("Hello World!\n");
+	printf("Git is Good\n");
 	return 0;
 }
