@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 int main(int argc, char *argv[]){
+	printf("I am using git\n");
 	printf("Hello World!\n");
 	return 0;
 }
