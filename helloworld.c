@@ -7,6 +7,6 @@ int main(int argc, char *argv[]){
 	printf("I am using git\n");
 	printf("Hello World!\n");
 	printf("Git is Good\n");
-	printf("testing on branch\n");
+	printf("NERF THIS >:3\n");
 	return 0;
 }
